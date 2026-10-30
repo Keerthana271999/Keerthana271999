@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on<br>- Building personal projects to strengthen my development skills <br>and expanding my portfolio.<br><br>I’m looking to collaborate on<br>- Open-source projects or beginner-friendly team repositories to <br>gain real-world collaboration experience.<br><br>I’m looking for help with<br>- Code reviews, best practices in software architecture, and tips on <br>navigating entry-level technical interviews.<br><br>I’m currently learning<br>- Python alongside mastering Data Structures and Algorithms <br>(DSA).<br><br>Ask me about<br>- My learning journey, the projects I've built so far, or what features I'm planning to <br>implement next.
+🧑‍💻I’m currently working on<br>- Building personal projects to strengthen my development skills <br>and expanding my portfolio.<br><br>I’m looking to collaborate on<br>- Open-source projects or beginner-friendly team repositories to <br>gain real-world collaboration experience.<br><br>I’m looking for help with<br>- Code reviews, best practices in software architecture, and tips on <br>navigating entry-level technical interviews.<br><br>🌱I’m currently learning<br>- Python alongside mastering Data Structures and Algorithms <br>(DSA).<br><br>💬Ask me about<br>- My learning journey, the projects I've built so far, or what features I'm planning to <br>implement next.
 
 
 ## 🌐 Socials:
