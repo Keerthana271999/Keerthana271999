@@ -1,4 +1,6 @@
 # 💫 About Me:
+### 🚀 Current Focus
+* Daily Python Challenge: * I am currently on a daily Python problem-solving journey to strengthen my core coding logic and language foundations. You can track my daily progress here: [👉 View My Daily Python Repo](https://github.com/Keerthana271999/Python_learning_journey.git)
 🔭 I’m currently working on building personal projects to<br>strengthen my development skills and expanding my portfolio.<br><br>👯 I’m looking to collaborate on open-source projects or<br>beginner-friendly team repositories to gain real-world<br>collaboration experience.<br><br>💬 Ask me about my learning journey, the projects I've built<br>so far, or what features I'm planning to implement next.
 
 
